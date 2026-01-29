@@ -8,3 +8,5 @@ This repo contains all my python journey
 3 All Pracrice problems of Python programing course by Geeks for Geeks 
 
 4 Python programing course by Geeks for Geeks (Certificate) with link
+
+5 Mini Projects
